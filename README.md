@@ -1,2 +1,2 @@
 # tareas-pendientes
-Proyecto de lista con HTML, CSS y JavaScript
+Proyecto de lista de tareas pendientes realizado con HTML, CSS y JavaScript
